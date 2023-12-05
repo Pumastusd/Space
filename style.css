@@ -1,0 +1,419 @@
+@media screen and (min-width: 1901px) {
+    
+
+html {
+
+    background: url(backround.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+  background-size: cover;
+}
+
+nav a {
+ text-decoration-line: none;
+ color: rgb(0, 4, 255);
+ font-size: 25px;
+ margin-right: -120px;
+ display: inline-block;
+ margin-left: 200px;
+ position: relative;
+ margin-top: 40px;
+}
+#mainA {
+ border-bottom: 4px rgb(55, 76, 71) solid;
+}
+nav a:hover {
+ color: rgb(61, 61, 131);
+}
+.main {
+ font-size: 150px;
+ text-align: center;
+ margin-top: 100px;
+}
+#textt_1 {
+ color: rgb(117, 113, 252);
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 500;
+}
+#textt_2 {
+ color: rgb(80, 83, 160);
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 500;
+ border-bottom: 43px rgb(55, 76, 71) solid;
+}
+div.bigButton {
+margin-top: 100px;
+display: inline-block;
+}
+.bigButton a {
+ border: 1px white solid;
+ border-radius: 25px;
+ margin-left: 80vh;
+ font-size: 60px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 500;
+ color: blue;
+ text-align: center;
+ justify-content: center;
+ text-decoration-line: none;
+ z-index: 100;
+ background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+}
+.bigButton a:hover {
+ background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+}
+}
+@media screen and (max-width: 1900px) {
+    html {
+
+        background: url(backround.jpg) no-repeat center center fixed;
+    
+        -webkit-background-size: cover;
+    
+        -moz-background-size: cover;
+    
+        -o-background-size: cover;
+    
+      background-size: cover;
+    }
+    
+    nav a {
+     text-decoration-line: none;
+     color: rgb(0, 4, 255);
+     font-size: 25px;
+     margin-right: -120px;
+     display: inline-block;
+     margin-left: 200px;
+     position: relative;
+     margin-top: 40px;
+    }
+    #mainA {
+     border-bottom: 4px rgb(55, 76, 71) solid;
+    }
+    nav a:hover {
+     color: rgb(61, 61, 131);
+    }
+    .main {
+     font-size: 150px;
+     text-align: center;
+     margin-top: 100px;
+    }
+    #textt_1 {
+     color: rgb(117, 113, 252);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+    }
+    #textt_2 {
+     color: rgb(80, 83, 160);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom: 43px rgb(55, 76, 71) solid;
+    }
+    div.bigButton {
+    margin-top: 100px;
+    display: inline-block;
+    }
+    .bigButton a {
+     border: 1px white solid;
+     border-radius: 25px;
+     margin-left: 65vh;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     color: blue;
+     text-align: center;
+     justify-content: center;
+     text-decoration-line: none;
+     z-index: 100;
+     background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+    }
+    .bigButton a:hover {
+     background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+    }  
+}
+@media screen and (max-width: 1500px) {
+    html {
+
+        background: url(backround.jpg) no-repeat center center fixed;
+    
+        -webkit-background-size: cover;
+    
+        -moz-background-size: cover;
+    
+        -o-background-size: cover;
+    
+      background-size: cover;
+    }
+    
+    nav a {
+     text-decoration-line: none;
+     color: rgb(0, 4, 255);
+     font-size: 25px;
+     margin-right: -120px;
+     display: inline-block;
+     margin-left: 200px;
+     position: relative;
+     margin-top: 40px;
+    }
+    #mainA {
+     border-bottom: 4px rgb(55, 76, 71) solid;
+    }
+    nav a:hover {
+     color: rgb(61, 61, 131);
+    }
+    .main {
+     font-size: 150px;
+     text-align: center;
+     margin-top: 100px;
+    }
+    #textt_1 {
+     color: rgb(117, 113, 252);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+    }
+    #textt_2 {
+     color: rgb(80, 83, 160);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom: 43px rgb(55, 76, 71) solid;
+    }
+    div.bigButton {
+    margin-top: 100px;
+    display: inline-block;
+    }
+    .bigButton a {
+     border: 1px white solid;
+     border-radius: 25px;
+     margin-left: 50vh;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     color: blue;
+     text-align: center;
+     justify-content: center;
+     text-decoration-line: none;
+     z-index: 100;
+     background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+    }
+    .bigButton a:hover {
+     background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+    }
+}
+@media screen and (max-width: 1200px) {
+    html {
+
+        background: url(backround.jpg) no-repeat center center fixed;
+    
+        -webkit-background-size: cover;
+    
+        -moz-background-size: cover;
+    
+        -o-background-size: cover;
+    
+      background-size: cover;
+    }
+    
+    nav a {
+     text-decoration-line: none;
+     color: rgb(0, 4, 255);
+     font-size: 25px;
+     margin-right: -120px;
+     display: inline-block;
+     margin-left: 200px;
+     position: relative;
+     margin-top: 40px;
+    }
+    #mainA {
+     border-bottom: 4px rgb(55, 76, 71) solid;
+    }
+    nav a:hover {
+     color: rgb(61, 61, 131);
+    }
+    .main {
+     font-size: 150px;
+     text-align: center;
+     margin-top: 100px;
+    }
+    #textt_1 {
+     color: rgb(117, 113, 252);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+    }
+    #textt_2 {
+     color: rgb(80, 83, 160);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom: 43px rgb(55, 76, 71) solid;
+    }
+    div.bigButton {
+    margin-top: 100px;
+    display: inline-block;
+    }
+    .bigButton a {
+     border: 1px white solid;
+     border-radius: 25px;
+     margin-left: 45vh;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     color: blue;
+     text-align: center;
+     justify-content: center;
+     text-decoration-line: none;
+     z-index: 100;
+     background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+    }
+    .bigButton a:hover {
+     background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+    }
+}
+@media screen and (max-width: 650px) {
+    html {
+
+        background: url(backround.jpg) no-repeat center center fixed;
+    
+        -webkit-background-size: cover;
+    
+        -moz-background-size: cover;
+    
+        -o-background-size: cover;
+    
+      background-size: cover;
+    }
+    
+    nav a {
+     text-decoration-line: none;
+     color: rgb(0, 4, 255);
+     font-size: 25px;
+     margin-right: -120px;
+     display: inline-block;
+     margin-left: 200px;
+     position: relative;
+     margin-top: 40px;
+    }
+    #mainA {
+     border-bottom: 4px rgb(55, 76, 71) solid;
+    }
+    nav a:hover {
+     color: rgb(61, 61, 131);
+    }
+    .main {
+     font-size: 150px;
+     text-align: center;
+     margin-top: 100px;
+    }
+    #textt_1 {
+     color: rgb(117, 113, 252);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     margin-left: 60px;
+    }
+    #textt_2 {
+     color: rgb(80, 83, 160);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom: 43px rgb(55, 76, 71) solid;
+    }
+    div.bigButton {
+    margin-top: 100px;
+    display: inline-block;
+    }
+    .bigButton a {
+     border: 1px white solid;
+     border-radius: 25px;
+     margin-left: 50vh;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     color: blue;
+     text-align: center;
+     justify-content: center;
+     text-decoration-line: none;
+     z-index: 100;
+     background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+    }
+    .bigButton a:hover {
+     background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+    }
+}
+@media screen and (max-width: 423px) {
+    html {
+
+        background: url(backround.jpg) no-repeat center center fixed;
+    
+        -webkit-background-size: cover;
+    
+        -moz-background-size: cover;
+    
+        -o-background-size: cover;
+    
+      background-size: cover;
+    }
+    
+    nav a {
+     text-decoration-line: none;
+     color: rgb(0, 4, 255);
+     font-size: 25px;
+     margin-right: 0px;
+     position: absolute;
+     margin-left: 100px;
+     position: relative;
+     margin-top: 40px;
+     display: inline-block;
+    }
+    #onas {
+        margin-top: 20px;
+        position: absolute;
+        white-space: nowrap
+    }
+    #mainA {
+     border-bottom: 4px rgb(55, 76, 71) solid;
+     margin-top: 20px;
+     white-space: nowrap
+    }
+    nav a:hover {
+     color: rgb(61, 61, 131);
+    }
+    .main {
+     font-size: 150px;
+     text-align: center;
+     margin-top: 100px;
+    }
+    #textt_1 {
+     color: rgb(117, 113, 252);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+    }
+    #textt_2 {
+     color: rgb(80, 83, 160);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom: 43px rgb(55, 76, 71) solid;
+    }
+    div.bigButton {
+    margin-top: 100px;
+    display: inline-block;
+    }
+    .bigButton a {
+     border: 1px white solid;
+     border-radius: 25px;
+     margin-left: 40vh;
+     font-size: 60px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     color: blue;
+     text-align: center;
+     justify-content: center;
+     text-decoration-line: none;
+     z-index: 100;
+     background: linear-gradient(rgb(1, 28, 79) 0%, #262728);
+    }
+    .bigButton a:hover {
+     background: linear-gradient(rgb(7, 46, 119) 0%, #424547); 
+    }
+}
