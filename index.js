@@ -11,4 +11,7 @@ let cookie;
 localStorage.setItem("load", cookie)
 let music = new Audio();
 music.src = Запись.m4a;
+function check() {
 music.play();
+}
+check()
