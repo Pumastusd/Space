@@ -10,4 +10,5 @@ console.log("Приветствуем на нашем сайте!");
 let cookie;
 localStorage.setItem("load", cookie)
 let music = new Audio();
-music.src = 
+music.src = Запись.m4a;
+music.play();
